@@ -22,10 +22,10 @@
             </objects>
             <point key="canvasLocation" x="139" y="119"/>
         </scene>
-        <!--View Controller-->
+        <!--dva-->
         <scene sceneID="wJo-oK-QSZ">
             <objects>
-                <viewController id="9oK-rn-onk" sceneMemberID="viewController">
+                <viewController title="dva" id="9oK-rn-onk" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="p41-TP-RLc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
