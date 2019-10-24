@@ -37,10 +37,10 @@
             </objects>
             <point key="canvasLocation" x="1070" y="640"/>
         </scene>
-        <!--View Controller-->
+        <!--jedan-->
         <scene sceneID="2cl-uK-Srk">
             <objects>
-                <viewController id="qY2-PA-lJb" sceneMemberID="viewController">
+                <viewController title="jedan" id="qY2-PA-lJb" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ig8-8N-CmN">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
