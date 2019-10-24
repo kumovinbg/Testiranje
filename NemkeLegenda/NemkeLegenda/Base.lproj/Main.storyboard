@@ -22,10 +22,10 @@
             </objects>
             <point key="canvasLocation" x="139" y="119"/>
         </scene>
-        <!--View Controller-->
+        <!--2-->
         <scene sceneID="wJo-oK-QSZ">
             <objects>
-                <viewController id="9oK-rn-onk" sceneMemberID="viewController">
+                <viewController title="2" id="9oK-rn-onk" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="p41-TP-RLc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -37,10 +37,10 @@
             </objects>
             <point key="canvasLocation" x="1070" y="640"/>
         </scene>
-        <!--View Controller-->
+        <!--1-->
         <scene sceneID="2cl-uK-Srk">
             <objects>
-                <viewController id="qY2-PA-lJb" sceneMemberID="viewController">
+                <viewController title="1" id="qY2-PA-lJb" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ig8-8N-CmN">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
